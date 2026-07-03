@@ -1,0 +1,8 @@
+corridor,borough,risk,score,weather,traffic
+Long Island Expressway,Queens,High,85,Heavy Thunderstorm,"Heavy westbound from Cross Island Parkway(31) to Van Wyck Expressway(22A)"
+Van Wyck Expressway,Queens,High,95,Heavy Thunderstorm,"Heavy northbound from Nassau Expressway(1) to Jamaica Ave(6)"
+Brooklyn Queens Expressway,Queens/Brooklyn,Moderate,55,Showers,"Heavy westbound from the Kosciuszko to the Brooklyn Battery Tunnel(32)"
+Belt Parkway,Queens/Brooklyn,High,90,Heavy Thunderstorm,"Heavy westbound from JFK Airport/Van Wyck Expressway(19) to Flatbush Ave(11)"
+Grand Central Parkway,Queens,High,92,Heavy Thunderstorm,"Heavy westbound from Clearview Expressway(22) to the Jackie Robinson Parkway(14)"
+Gowanus Expressway,Brooklyn,Moderate,55,Showers,"Stop and go traffic both directions. Wet roads, some floods remain possible from earlier thunderstorms"
+Staten Island Expressway,Staten Island,Low,12,Clearing Skies,"Clear both directions"
