@@ -1,5 +1,9 @@
 # NYC Road Weather Risk Dashboard
 
+## Project Status
+
+This project is currently in active development. The dashboard is functional, but additional roadway inventory, live weather data, live traffic data, and expanded risk modeling are still being added.
+
 ## Project Overview
 
 This project is an interactive Dash dashboard that analyzes NYC roadway risk using sample corridor, borough, weather, traffic, and score data.
