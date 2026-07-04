@@ -12,7 +12,10 @@ app = Dash(__name__)
 app.title = "NYC Road Weather Risk Dashboard"
 
 df = pd.read_csv("data/corridors.csv") #Reads corridor data from CSV
+df_highways = pd.read_csv("data/nyc_highway_exits.csv")
+print(df_highways.head())
 df_sorted = df.sort_values(by='score', ascending=False) #Sorts the Dataframe by score from highest to lowest
+
 
 def score_category(score):
     if score >= 70:

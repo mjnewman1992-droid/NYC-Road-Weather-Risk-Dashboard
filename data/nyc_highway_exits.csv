@@ -1,0 +1,502 @@
+highway,direction,exit,exit_name
+
+Van Wyck Expressway, NB, Exit A, Return to Terminals/PAPD
+Van Wyck Expressway, NB, Exit C, Federal Circle
+Van Wyck Expressway, NB, Exits 1-1E, EB Belt
+Van Wyck Expressway, NB, Exits 1W-2, WB Belt 
+Van Wyck Expressway, NB, Exit 3, Linden Blvd
+Van Wyck Expressway, NB, Exit 4, Liberty Ave/Atlantic Ave
+Van Wyck Expressway, NB, Exit 6, Jamaica Ave/Hillside Ave
+Van Wyck Expressway, NB, Exit 8, Main St
+Van Wyck Expressway, NB, Exit 9, Queens Blvd/Hillside Ave
+Van Wyck Expressway, NB, Exit 10, GCP/LGA Airport/RFK Br
+Van Wyck Expressway, NB, Exit 11, 69th Rd/Jewel Ave
+Van Wyck Expressway, NB, Exit 12A, EB LIE/ Eastern LI
+Van Wyck Expressway, NB, Exit 12B WB LIE/Manhattan
+Van Wyck Expressway, NB, Exit 13, Northern Blvd/Astoria Blvd/ RFK Br
+Whitestone Expressway, NB, Exit 14, Linden Pl
+Whitestone, NB, Exit 15, 20th Ave
+Whitestone, NB, Exit 16, SB CIP
+Whitestone, NB, Exit 17, 3rd Ave
+Whitestone, NB, Whitestone Br
+I-678, NB, Exit 18 Lafayette Ave
+I-678, NB, Exits 19N-S-W I-95/I-278
+I-678, NB, Hutchinson River Pkwy
+I-678, SB, Hutchinson River Pkwy
+I-678, SB, Exit 18, Ferry Point Park/Lafayette Ave
+I-678, SB, Whitestone Br
+Whitestone Expressway, SB, Exit 17, 14th Ave
+Whitestone Expressway, SB, Exit 16, Cross Island Pkwy
+Whitestone Expressway, SB, Exit 15, 20th Ave
+Whitestone Expressway, SB, Exit 14, Linden Pl
+Whitestone Expressway, SB, Exits 13A-D/WB Astoria Blvd/GCP/LGA/N. Blvd/Citi Field
+Van Wyck Expressway, SB, Exit 12A, EB LIE/College Pt Blvd
+Van Wyck Expressway, SB, Exit 12B, WB LIE/Manhattan
+Van Wyck Expressway, SB, Exit 11, 69th Rd/Jewel Ave
+Van Wyck Expressway, SB, Exits 7C-A, Queens Blvd/WB Union Tpke/WB JRP
+Van Wyck Expressway, SB, Exit 6, Hillside Ave/Jamaica Ave
+Van Wyck Expressway, SB, Exit 5, Atlantic Ave
+Van Wyck Expressway, SB, Exit 4, 101st Ave/Liberty Ave
+Van Wyck Expressway, SB, Exit 3, Linden Blvd
+Van Wyck Expressway, SB, Exit 2, Rockaway Blvd
+Van Wyck Expressway, SB, Exit 1W, WB Belt/VZ-Bridge
+Van Wyck Expressway, SB, Exits 1-1E, EB Belt/Eastern LI
+Van Wyck Expressway, SB, Exit D, Airport Hotels
+Van Wyck Expressway, SB, Exit C, Long Term Parking/Rental Cars/Cargo Areas
+Van Wyck Expressway, SB, Exit B, Cell Phone Lot/PA Admin/General Aviation
+Van Wyck Expressway, SB, Exit A, PAPD
+Van Wyck Expressway, SB, Terminal 4 Arrivals
+
+Long Island Expressway, WB, Nassau/Queens Line
+Long Island Expressway, WB, Exit 32, Little Neck Pkwy/Douglaston Pkwy
+Long Island Expressway, WB, Exit 31N-S, CIP
+Long Island Expressway, WB, Exit 29, Springfield Blvd
+Long Island Expressway, WB, Exit 28, Oceania St/Francis Lewis Blvd
+Long Island Expressway, WB, Exits 27N-S, Clearview Expwy/GCP
+Long Island Expressway, WB, Exit 25, Utopia Pkwy/164th St
+Long Island Expressway, WB, Exit 24, Kissena Blvd
+Long Island Expressway, WB, Exit 23, Main St
+Long Island Expressway, WB, Exit 22B, VWE/College Pt Blvd
+Long Island Expressway, WB, Exits 22A, GCP/108th St
+Long Island Expressway, WB, Exit 20, Junction Blvd
+Long Island Expressway, WB, Exit 19, Woodhaven Blvd/Queens Blvd
+Long Island Expressway, WB, Exit 18, Maurice Ave
+Long Island Expressway, WB, Exit 17W, BQE
+Long Island Expressway, WB, Exit 16, Hunters Point Ave/Greenpoint Ave
+Long Island Expressway, WB, Exit 15, Van Dam St
+Long Island Expressway, WB, QMT
+Long Island Expressway, EB, QMT
+Long Island Expressway, EB, Exit 13, Borden Ave/Pulaski Br
+Long Island Expressway, EB, Exit 14, 25A E/21st St
+Long Island Expressway, EB, Exits 17W-E, BQE
+Long Island Expressway, EB, Exit 19, Woodhaven Blvd/Queens Blvd
+Long Island Expressway, EB, Exit 21, 108th St
+Long Island Expressway, EB, Exits 22A-E, GCP/VWE
+Long Island Expressway, EB, Exit 23, Main St
+Long Island Expressway, EB, Exit 24, Kissena Blvd
+Long Island Expressway, EB, Exit 25, Utopia Pkwy/188th St
+Long Island Expressway, EB, Exit 26, Francis Lewis Blvd
+Long Island Expressway, EB, Exits 27N-S, Clearview Expwy/GCP
+Long Island Expressway, EB, Exit 29, Springfield Blvd
+Long Island Expressway, EB, Exit 30, E. Hampton Blvd/Douglaston Pkwy
+Long Island Expressway, EB, Exit 31S, SB CIP
+Long Island Expressway, EB, Exit 32, Little Neck Pkwy
+Long Island Expressway, EB, Queens Line/Nassau Line
+
+Grand Central Parkway, WB, NSP
+Grand Central Parkway, WB, Exit 24, Little Neck Pkwy 
+Grand Central Parkway, WB, Exit 23, CIP/Union Tpke
+Grand Central Parkway, WB, Exit 21, CVE/Hillside Ave
+Grand Central Parkway, WB, Exit 20A, NB Francis Lewis Blvd
+Grand Central Parkway, WB, Exit 20B, SB Francis Lewis Blvd
+Grand Central Parkway, WB, Exit 19, 188th St
+Grand Central Parkway, WB, Exit 17, 168th St/Parsons Blvd
+Grand Central Parkway, WB, Exit 15, Union Tpke/Queens Blvd
+Grand Central Parkway, WB, Exit 14 WB JRP
+Grand Central Parkway, WB, Exits 11E-W, Jewel Ave/69th Rd
+Grand Central Parkway, WB, Exits 10E-W, LIE
+Grand Central Parkway, WB, Exit 9P, Flushing Meadows/Corona Park
+Grand Central Parkway, WB, Exit 9E, Whitestone Expwy/Northern Blvd
+Grand Central Parkway, WB, Exit 7, LGA Terms B & C / 94th St
+Grand Central Parkway, WB, Exit 5, 82nd St / LGA Term A
+Grand Central Parkway, WB, Exit 4 / BQE
+Grand Central Parkway, WB, RFK Bridge
+Grand Central Parkway, EB, RFK Bridge
+Grand Central Parkway, EB, Brooklyn bound BQE
+Grand Central Parkway, EB, Exit 5, Astoria Blvd/82nd St/Term A/Term B Parking
+Grand Central Parkway, EB, Exit 6, 94th St/Term B Parking
+Grand Central Parkway, EB, Exit 7, LGA-Terms B & C
+Grand Central Parkway, EB, Exit 8, 111th St
+Grand Central Parkway, EB, Exit 9E, Whitestone Expwy/Northern Blvd
+Grand Central Parkway, EB, Exits 10E-W, LIE
+Grand Central Parkway, EB, Exit 11, 69th Rd/Jewel Ave
+Grand Central Parkway, EB, Exit 12, 78th Ave/Queens Blvd
+Grand Central Parkway, EB, Exit 13, VWE/JFK Airport
+Grand Central Parkway, EB, Exit 14, JRP/Union Tpke
+Grand Central Parkway, EB, Exit 16, Parsons Blvd/164th St
+Grand Central Parkway, EB, Exit 18, Union Tpke
+Grand Central Parkway, EB, Exit 19 188th St
+Grand Central Parkway, EB, Exit 20B, SB Francis Lewis Blvd
+Grand Central Parkway, EB, Exit 20A, NB Francis Lewis Blvd
+Grand Central Parkway, EB, Exit 21, CVE/Hillside Ave
+Grand Central Parkway, EB, Exit 22, Union Tpke
+Grand Central Parkway, EB, Exit 23, CIP/Winchester Blvd
+Grand Central Parkway, EB, Exit 24, Little Neck Pkwy
+Grand Central Parkway, EB, NSP
+
+Belt Parkway, WB, Exit 25A, SSP
+Belt Parkway, WB, Exit 24B, Merrick Blvd
+Belt Parkway, WB, Exit 24A, Francis Lewis Blvd
+Belt Parkway, WB, Exit 23A, N. Conduit Ave/225th St
+Belt Parkway, WB, Exit 22, Springfield Blvd
+Belt Parkway, WB, Exit 21B, Farmers Blvd/Guy R. Brewer Blvd
+Belt Parkway, WB, Exit 21A, Rockaway Blvd
+Belt Parkway, WB, Exit 20, JFK Airport/JFK Expressway
+Belt Parkway, WB, Exit 18B, Lefferts Blvd/Aqueduct
+Belt Parkway, WB, Exit 17N, NB Cross Bay Blvd/Cohancy St
+Belt Parkway, WB, Exit 17W, N. Conduit Ave
+Belt Parkway, WB, Exit 17S, SB Cross Bay Blvd
+Belt Parkway, WB, Exit 15, Erskine St
+Belt Parkway, WB, Exit 14, Pennsylvania Ave
+Belt Parkway, WB, Exit 13, Rockaway Pkwy
+Belt Parkway, WB, Exit 11N, NB Flatbush Ave
+Belt Parkway, WB, Exit 11S, SB Flatbush Ave/Rockaways
+Belt Parkway, WB, Exit 9, Knapp St
+Belt Parkway, WB, Exit 8, Coney Island Ave
+Belt Parkway, WB, Exit 7B, Ocean Pkwy
+Belt Parkway, WB, Exit 7A, Coney Island/Shell Rd
+Belt Parkway, WB, Exit 6N, Stillwell Ave/NB Crospey Ave
+Belt Parkway, WB, Exit 6S, SB Crospey Ave
+Belt Parkway, WB, Exit 5, Bay Pkwy
+Belt Parkway, WB, Exit 4, 14th Ave/Bay 8th St
+Belt Parkway, WB, Exit 3, VZ-Bridge/SIE
+Belt Parkway, WB, Exit 2, 4th Ave/Fort Hamilton Pkwy
+Belt Parkway, WB, Exit 1, 65th St/67th St
+Belt Parkway, WB, Gowanus Expwy
+Belt Parkway, EB, Gowanus Expwy
+Belt Parkway, EB, Exit 1, 65th St/67th St
+Belt Parkway, EB, Exit 2, 4th Ave/Ft. Hamilton Pkwy
+Belt Parkway, EB, Exit 4, 14th Ave/Bay 8th St
+Belt Parkway, EB, Exit 5, Bay Pkwy
+Belt Parkway, EB, Exit 6, Crospey Ave/Coney Island
+Belt Parkway, EB, Exit 7, Ocean Pkwy
+Belt Parkway, EB, Exit 8, Coney Island Ave
+Belt Parkway, EB, Exit 9A, Knapp St/Sheepshead Bay
+Belt Parkway, EB, Exit 9B, Knapp St
+Belt Parkway, EB, Exit 11S, SB Flatbush Ave/Rockaways
+Belt Parkway, EB, Exit 11N, NB Flatbush Ave
+Belt Parkway, EB, Exit 13, Rockaway Pkwy
+Belt Parkway, EB, Exit 14, Pennsylvania Ave
+Belt Parkway, EB, Exit 15, Erskine St
+Belt Parkway, EB, Exit 17, Cross Bay Blvd
+Belt Parkway, EB, Exit 19, Nassau Expwy/VWE/JFK Airport
+Belt Parkway, EB, Exit 20, 150th St/Rockaway Blvd
+Belt Parkway, EB, Exit 21B, Farmers Blvd
+Belt Parkway, EB, Exit 22, Springfield Blvd
+Belt Parkway, EB, Exit 23B, Sunrise Hwe/Brookville Blvd
+Belt Parkway, EB, Exit 24A, Merrickl Blvd/Francis Lewis Blvd
+Belt Parkway, EB, Exit 24B, 130th Ave
+Belt Parkway, EB, Exit 25A, SSP
+
+Cross Island Parkway, NB, Belt Pkwy/SSP
+Cross Island Parkway, NB, Exit 25B, Elmont Rd/Linden Blvd
+Cross Island Parkway, NB, Exit 26A, UBS Arena-Belmont Park
+Cross Island Parkway, NB, Exit 26B, Hempstead Ave/Belmont Racetrack
+Cross Island Parkway, NB, Exit 26D, UBS Arena-Belmont Park
+Cross Island Parkway, NB, Exit 27, Jamaica Ave/Jericho Tpke
+Cross Island Parkway, NB, Exit 28A, Hillside Ave
+Cross Island Parkway, NB, Exit 28B, Union Tpke
+Cross Island Parkway, NB, Exits 29E-W, GCP
+Cross Island Parkway, NB, Exit 30E, EB LIE
+Cross Island Parkway, NB, Exit 30W, WB LIE
+Cross Island Parkway, NB, Exit 31E, EB Northern Blvd
+Cross Island Parkway, NB, Exit 31W, WB Northern Blvd
+Cross Island Parkway, NB, Exit 32, Bell Blvd
+Cross Island Parkway, NB, Exit 33, Throgs Neck Br/Bronx
+Cross Island Parkway, NB, Exit 34, Utopia Pkwy
+Cross Island Parkway, NB, Exit 36N, Whitestone Br/Bronx
+Cross Island Parkway, NB, Exit 36S, Whitestone Expwy
+Cross Island Parkway, SB, Whitestone Expwy/Whitestone Br
+Cross Island Parkway, SB, Exit 35, 14th Ave/Francis Lewis Blvd
+Cross Island Parkway, SB, Exit 34, 160th St/Utopia Pkwy
+Cross Island Parkway, SB, Exit 33, SB Clearview Expwy/Bell Blvd
+Cross Island Parkway, SB, Exit 31W, WB Northern Blvd
+Cross Island Parkway, SB, Exit 31E, EB Northern Blvd
+Cross Island Parkway, SB, Exit 30E, EB LIE
+Cross Island Parkway, SB, Exits 29E-W, GCP
+Cross Island Parkway, SB, Exit 28B, Union Tpke
+Cross Island Parkway, SB, Exit 28A, Hillside Ave
+Cross Island Parkway, SB, Exit 27W, WB Jamaica Ave/Braddock Ave
+Cross Island Parkway, SB, Exit 27E, EB Jamaica Ave/Jericko Tpke
+Cross Island Parkway, SB, Exit 26D, UBS Arena-Belmont Park
+Cross Island Parkway, SB, Exit 26C, WB Hempstead Ave
+Cross Island Parkway, SB, Exit 26B, EB Hempststead Ave/Belmont Racetrack
+Cross Island Parkway, SB, Exit 26A, UBS Arena-Belmont Park
+Cross Island Parkway, SB, Exit 25B, Linden Blvd
+Cross Island Parkway, SB, Exit 25A, SSP
+Cross Island Parkway, SB, Belt Pkwy
+
+Clearview Expressway, NB, Hillside Ave
+Clearview Expressway, NB, Exit 1, GCP
+Clearview Expressway, NB, Exit 2, Union Tpke
+Clearview Expressway, NB, Exits 4E-W, LIE
+Clearview Expressway, NB, Exit 5, Northern Blvd
+Clearview Expressway, NB, Exit 6A, 35th Ave
+Clearview Expressway, NB, Exit 7, Willets Point Blvd
+Clearview Expressway, NB, Throgs Neck Bridge
+Cross Bronx Expressway Ext, NB, Exit 9, Pennyfield Ave/Fort Schuyler
+Cross Bronx Expressway Ext, NB, Exit 10, Throgs Neck Expwy
+Cross Bronx Expressway Ext, NB, Exit 11, Randall Ave
+Cross Bronx Expressway Ext, NB, Exit 12 WB Bruckner Expwy
+Cross Bronx Expressway Ext, NB, SB Cross Bronx Expwy
+Cross Bronx Expressway Ext, SB, Cross Bronx Expwy
+Cross Bronx Expressway Ext, SB, Exit 11, Randall Ave
+Cross Bronx Expressway Ext, SB, Exit 9, Harding Ave/Pennyfield Ave
+Cross Bronx Expressway Ext, SB, Throgs Neck Bridge
+Clearview Expressway, SB, Exit 8, SB CIP
+Clearview Expressway, SB, Exit 6B, 26th Ave
+Clearview Expressway, SB, Exit 6A, 35th Ave
+Clearview Expressway, SB, Exit 5, Northern Blvd
+Clearview Expressway, SB, Exits 4E-W, LIE
+Clearview Expressway, SB, Exit 3, 73rd Ave
+Clearview Expressway, SB, Exit 2, Union Tpke
+Clearview Expressway, SB, Exit 1, GCP
+Clearview Expressway, SB, Hillside Ave
+
+Jackie Robinson Parkway, WB, LIE/GCP
+Jackie Robinson Parkway, WB, Exit 6, Metropolitan Ave
+Jackie Robinson Parkway, WB, Exit 4, Forest Park Dr/Myrtle Ave/Woodhaven Blvd
+Jackie Robinson Parkway, WB, Exit 3, Cypress Hill St
+Jackie Robinson Parkway, WB, Exit 2, Cyprus Ave/Vermont Ave
+Jackie Robinson Parkway, WB, Exit 1, Bushwick Ave
+Jackie Robinson Parkway, WB, Pennsylvania Ave/E. New York Ave
+Jackie Robinson Parkway, EB, Pennsylvania Ave/E. New York Ave
+Jackie Robinson Parkway, EB, Exit 2, Cyprus Ave/Vermont Ave
+Jackie Robinson Parkway, EB, Exit 3, Cypress Hill St
+Jackie Robinson Parkway, EB, Exit 4, Forest Park Dr
+Jackie Robinson Parkway, EB, Exit 5, Myrtle Ave/Woodhaven Blvd
+Jackie Robinson Parkway, EB, Exit 6, Metropolitian Ave/Queens Blvd
+Jackie Robinson Parkway, EB, Exit 7, NB VWE
+Jackie Robinson Parkway, EB, Exit 8W, WB GCP
+Jackie Robinson Parkway, EB, Exit 8E, EB GCP
+
+JFK Expressway, NB, Beginning of Highway
+JFK Expressway, NB, Exit 1, S. Cargo Rd
+JFK Expressway, NB, Exit 2, WB Belt Pkwy/EB Nassau Expwy
+JFK Expressway, NB, EB Belt Pkwy
+JFK Expressway, SB, WB Belt Pkwy
+JFK Expressway, SB, Cargo Service Rd/Terms 1 & 4
+JFK Expressway, SB, Exit 2, 148th St
+JFK Expressway, SB, Exit 1, S. Cargo Rd
+JFK Expressway, SB, Terms 5/7/8
+
+Bruckner Expressway, WB, Cross Bronx Expwy
+Bruckner Expressway, WB, Exit 53, White Plains Rd
+Bruckner Expressway, WB, Exit 51, Bronx River Ave
+Bruckner Expressway, WB, Exit 50, Tiffany St,
+Bruckner Expressway, WB, Exit 48, Leggett Ave/Hunts Point Ave
+Bruckner Expressway, WB, Exit 47, MDE
+RFK Bridge, WB, Exit 46, FDR Drive
+RFK Bridge, WB, Exit 46A, Randalls Island
+RFK Bridge, WB, BQE
+BQE, WB, Exit 45, 31st St/Astoria Blvd
+BQE, WB, EB GCP/LGA Airport
+BQE, WB, Exit 41, Northern Blvd
+BQE, WB, Exit 40, Broadway/Roosevelt Ave
+BQE, WB, Exit 39W, WB Queens Blvd
+BQE, WB, Exit 39E EB Queens Blvd/58th St
+BQE, WB, Exit 35, LIE/Greenpoint Ave
+BQE, WB, Exit 34, Meeker Ave/Vandervoort Ave
+BQE, WB, Exit 32B, Metropolitan Ave
+BQE, WB, Exit 32A, Williamsburg Br
+BQE, WB, Exit 31, Wythe Ave/Kent Ave
+BQE, WB, Exit 29 Tillary St/Manhattan Br
+BQE, WB, Exit 28, Camdan Plaza W/Brooklyn Br
+BQE, WB, Exit 27, Atlantic Ave
+BQE, WB, Exit 26, Hamilton Ave/Hugh Carey Tunnel
+Gowanus Expwy, WB, Exit 24, EB Prospect Expwy
+Gowanus Expwy, WB, Exit 23, 39th St
+Gowanus Expwy, WB, Exit 22, EB Belt Pkwy
+Gowanus Expwy, WB, Exit 20, 6th Ave
+Gowanus Expwy, WB, Exit 19, 96th St
+Gowanus Expwy, WB, Exit 17, 92nd St
+Gowanus Expwy, WB, Verrazano Bridge
+Staten Island Expressway, WB, Exit 15N, Bay St
+Staten Island Expressway, WB, Exit 15S, SB Lily Pond Ave/Father Capodanno Blvd
+Staten Island Expressway, WB, Exit 15W, WB Narrows Rd/Fingerboard Rd
+Staten Island Expressway, WB, Exit 14, Hylan Blvd
+Staten Island Expressway, WB, Exit 13B, Richmond St/Targee St
+Staten Island Expressway, WB, Exit 13A, Clove Rd
+Staten Island Expressway, WB, Exit 12, Todt Hill Rd/Slosson Ave
+Staten Island Expressway, WB, Exit 11, Bradley Ave
+Staten Island Expressway, WB, Exit 10, Victory Blvd
+Staten Island Expressway, WB, Exit 9, NB Dr. Martin Luther King Jr Expwy
+Staten Island Expressway, WB, Exit 7, Richmond Ave
+Staten Island Expressway, WB, Exit 6, South Ave
+Staten Island Expressway, WB, Exit 5, SB West Shore Expwy
+Staten Island Expressway, WB, Exit 3, Western Ave
+Staten Island Expressway, WB, Goethals Br
+Staten Island Expressway, EB, Goethals Br
+Staten Island Expressway, EB, Exit 4, Forest Ave
+Staten Island Expressway, EB, Exit 5, SB West Shore Expwy
+Staten Island Expressway, EB, Exit 7, Richmond Ave
+Staten Island Expressway, EB, Exit 8, Victory Blvd
+Staten Island Expressway, EB, Exit 9, NB Dr. Martin Luther King Jr Expwy
+Staten Island Expressway, EB, Exit 11, Bradley Ave
+Staten Island Expressway, EB, Exit 12, Todt Hill Rd/Slosson Ave
+Staten Island Expressway, EB, Exit 13, Clove Rd/Richmond Rd/Targee St
+Staten Island Expressway, EB, Exit 14, Hylan Blvd
+Staten Island Expressway, EB, Exit 15, Fingerboard Rd/Lily Pond Ave
+Staten Island Expressway, EB, Verrazono Bridge
+Gowanus Expwy, EB Exit 16, EB Belt Pkwy
+Gowanus Expwy, EB Exit 17, 92nd St
+Gowanus Expwy, EB Exit 18, Fort Hamilton Parkway
+Gowanus Expwy, EB Exit 20, 7th Ave/65th St
+Gowanus Expwy, EB Exit 21, 3rd Ave
+Gowanus Expwy, EB Exit 23, 38th St
+Gowanus Expwy, EB Exit 24, EB Prospect Expwy
+Gowanus Expwy, EB Exit, Exit 25, Hugh Carey Tunnel
+BQE, EB, Exit 26, Hamilton Ave
+BQE, EB, Exit 27, Atlantic Ave
+BQE, EB, Exit 28A, Camdan Plaza West
+BQE, EB, Exit 28B, Brooklyn Bridge
+BQE, EB, Exit 29A, Manhattan Bridge
+BQE, EB, Exit 29B, Tillary St/Manhattan Bridge
+BQE, EB, Exit 30, Flushing Ave
+BQE, EB, Exit 32, Metropolitan Ave/Williamsburg Br
+BQE, EB, Exit 33, McGuiness Blvd/Humboldt St
+BQE, EB, Exits 35A-B, LIE/48th St
+BQE, EB, Exit 39, Queens Blvd/65th Pl
+BQE, EB, Exit 40, Broadway/Roosevelt Ave
+BQE, EB, Exit 41, Northern Blvd
+BQE, EB, Exit 42, EB GCP/LGA Airport
+BQE, EB, Exit 43, 30th Ave
+BQE, EB, Exit 44, WB Astoria Blvd
+BQE, EB, Exit 45, 31st St
+BQE, EB, RFK Bridge
+RFK Bridge, EB, Exit 46, Randalls Island
+RFK Bridge, EB, Exit 47, NB Major Deegan Expwy
+Bruckner Expressway, Exit 48, E. 138th St
+Bruckner Expressway, Exit 49, Sheridan Blvd
+Bruckner Expressway, Exit 52, NB Bronx River Pkwy
+Bruckner Expressway, Exit 53, White Plains Rd/Castle Hill Ave
+Bruckner Expressway, Exit 54, Queens bound Whitestone Br/Throgs Neck Br
+Bruckner Expressway, NB I-95/Bruckner Expwy
+
+West Shore Expressway, NB, Outerbridge Crossing
+West Shore Expressway, NB, Exit 1, Page Ave
+West Shore Expressway, NB, Exit 2, NB Korean War Veterans Pkwy/Richmond Ave
+West Shore Expressway, NB, Exit 3, Woodrow Ave
+West Shore Expressway, NB, Exit 4, Arthur King Rd/Huquenot Ave
+West Shore Expressway, NB, Exit 7, Victory Blvd
+West Shore Expressway, NB, Exit 8, South Ave
+West Shore Expressway, NB, Exit 9, Glen St
+West Shore Expressway, NB, EB SIE/Goethals Br
+West Shore Expressway, SB, SIE
+West Shore Expressway, SB, Exit 7, Victory Blvd
+West Shore Expressway, SB, Exit 5, Muldoon Ave/Arden Ave
+West Shore Expressway, SB, Exit 3B, Bloomingdale Rd
+West Shore Expressway, SB, Exit 3A, Englewood Ave
+West Shore Expressway, SB, Exit 2, NB Korean War Verans Pkwy/Richmond Ave
+West Shore Expressway, SB, Exit 1, Arthur Kill Rd
+
+Dr. Martin Luther King Jr Expwy, NB, Victory Blvd
+Dr. Martin Luther King Jr Expwy, NB, Exit 10W, Goethals Br
+Dr. Martin Luther King Jr Expwy, NB, Exit 12, Forest Ave
+Dr. Martin Luther King Jr Expwy, NB, Exit 13, Richmond Terrace
+Dr. Martin Luther King Jr Expwy, NB, Bayonne Bridge
+Dr. Martin Luther King Jr Expwy, SB, Bayonne Bridge
+Dr. Martin Luther King Jr Expwy, SB, Exit 13, Morningstar Rd/Richmond Terrace
+Dr. Martin Luther King Jr Expwy, SB, Exit 12, Forest Ave
+Dr. Martin Luther King Jr Expwy, SB, Exit 11, Victory Blvd
+Dr. Martin Luther King Jr Expwy, SB, Exit 10E, EB SIE
+Dr. Martin Luther King Jr Expwy, SB, Goethals Bridge
+Dr. Martin Luther King Jr Expwy, SB, Victory Blvd
+
+Major Deegan Expressway, NB, RFK Bridge/EB Bruckner Expwy
+Major Deegan Expressway, NB, Exit 2, Willis Ave/Third Ave Br
+Major Deegan Expressway, NB, Exit 3, Grand Concourse/E. 138th
+Major Deegan Expressway, NB, Exit 4, E. 149th St/145th St Br
+Major Deegan Expressway, NB, Exit 5, E.161st St/Malcombs Dam Br
+Major Deegan Expressway, NB, Exits 7N-S, NB Cross Bx Expwy/GWB
+Major Deegan Expressway, NB, Exit 8, W. 179th St
+Major Deegan Expressway, NB, Exit 9, W. Fordham Rd/University Heights Br
+Major Deegan Expressway, NB, Exit 10, W. 230th St
+Major Deegan Expressway, NB, Exit 11, Van Cortlandt Park S
+Major Deegan Expressway, NB, Exit 12, SB Henry Hudson Pkwy/NB Saw Mill River Pkwy
+Major Deegan Expressway, NB, Exit 13, E. 233rd St
+Major Deegan Expressway, NB, Exit 14, McClean Ave
+Major Deegan Expressway, NB, NYS Thruway
+Major Deegan Expressway, SB, NYS Thruway
+Major Deegan Expressway, SB, Exit 13, E. 233rd St
+Major Deegan Expressway, SB, Exit 11, Van Cortlandt Park S
+Major Deegan Expressway, SB, Exit 10, W. 230th St
+Major Deegan Expressway, SB, Exit 9, W. Fordham Rd/University Heights Br
+Major Deegan Expressway, SB, Exits 7N-S, Cross Bronx Expwy/GWB
+Major Deegan Expressway, SB, Exit 6, E. 153rd St/River Ave
+Major Deegan Expressway, SB, Exit 5, E. 161st St/Malcombs Dam Br
+Major Deegan Expressway, SB, Exit 3, E. 138th St/Madison Ave Br
+Major Deegan Expressway, SB, Exit 2, Willis Ave/Third Ave Br
+Major Deegan Expressway, SB, Exit 1, Brook Ave
+Major Deegan Expressway, SB, RFK Bridge/EB Bruckner Expwy
+
+Bronx River Parkway, NB, Bruckner Expwy
+Bronx River Parkway, NB, Exit 4, Cross Bronx Expwy
+Bronx River Parkway, NB, Exit 6, NB Boston Rd/Bronx Zoo
+Bronx River Parkway, NB, Exit 7E, Pelham Pkwy
+Bronx River Parkway, NB, Exit 7W, SB Fordham Rd
+Bronx River Parkway, NB, Exit 8E, Allerton Ave
+Bronx River Parkway, NB, Exit 8W, Mosholu Pkwy
+Bronx River Parkway, NB, Exit 9, Gun Hill Rd
+Bronx River Parkway, NB, Exit 10, E. 233rd St
+Bronx River Parkway, NB, Bronx/Westchester County Line
+Bronx River Parkway, SB, Bronx/Westchester County Line
+Bronx River Parkway, SB, Exit 10, E. 233rd St
+Bronx River Parkway, SB, Exit 9, Gun Hill Rd
+Bronx River Parkway, SB, Exits 8W-E, Mosholu Pkwy/Allerton Ave
+Bronx River Parkway, SB, Exit 7W, SB Fordham Rd
+Bronx River Parkway, SB, Exit 7E, Pelham Pkwy
+Bronx River Parkway, SB, Exit 6, NB Boston Rd/Bronx Zoo
+Bronx River Parkway, SB, Exit 5, Sherifan Blvd/RFK Br/E. 177th St
+Bronx River Parkway, SB, Exit 4, Cross Bronx Expwy
+Bronx River Parkway, SB, Exit 3, Westchester Ave
+Bronx River Parkway, SB, Exit 2E, Bruckner Expwy
+Bronx River Parkway, SB, Exit 1, Story Ave
+
+Hutchinson River Parkway, NB, Cross Bronx Expwy
+Hutchinson River Parkway, NB, Exit 1A, WB Bruckner Blvd
+Hutchinson River Parkway, NB, Exit 1B, E. Tremont Ave/Westchester Ave
+Hutchinson River Parkway, NB, Exit 1C, EB Pelham Pkwy
+Hutchinson River Parkway, NB, Exit 1D, WB Pelham Pkwy
+Hutchinson River Parkway, NB, Exit 2, Bartow Ave
+Hutchinson River Parkway, NB, Exit 3, Orchard Beach/City Island
+Hutchinson River Parkway, NB, Exit 48, NB New England Thruway
+Hutchinson River Parkway, NB, Bronx/Westchester County Line
+Hutchinson River Parkway, SB, Bronx/Westchester County Line
+Hutchinson River Parkway, SB, Exit 3, Orchard Beach
+Hutchinson River Parkway, SB, Exit 2B, NB New England Thruway
+Hutchinson River Parkway, SB, Exit 2A, SB Cross Bronx Expwy/GWB
+Hutchinson River Parkway, SB, Exit 1C, EB Pelham Pkwy
+Hutchinson River Parkway, SB, Exit 1B, E. Tremont Ave/Westchester Ave
+Hutchinson River Parkway, SB, Exit 1A, Bruckner Blvd/Cross Bronx Expwy/Bruckner Expwy
+Hutchinson River Parkway, SB, Whitestone Br
+
+Trans Manhattan Expressway, NB, GWB
+Trans Manhattan Expressway, NB, Exit 1A, Henry Hudson Pkwy/W. 178th St
+Trans Manhattan Expressway, NB, Exit 1B, SB Harlem River Dr
+Cross Bronx Expressway, NB, Exits 1C-D, Major Deegan Expwy
+Cross Bronx Expressway, NB, Exit 2A, Jerome Ave
+Cross Bronx Expressway, NB, Exit 2B, NB Webster Ave
+Cross Bronx Expressway, NB, Exit 4A, SB Sheridan Blvd
+Cross Bronx Expressway, NB, Exit 4B, Rosedale Ave/Bronx River Pkwy
+Cross Bronx Expressway, NB, Exit 5A, White Plains Rd/Westchester Ave
+Cross Bronx Expressway, NB, Exit 5B, Castle Hill Rd
+Cross Bronx Expressway, NB, Exit 6A, Whitestone Br
+Cross Bronx Expressway, NB, Exit 6B, Throgs Neck Br
+Bruckner Expressway, NB, Exit 7C, Country Club Rd/Pelham Bay Park
+Bruckner Expressway, NB, Exit 8, Pelham Pkwy
+New England Thruway, NB, Exit 9, NB Hutchinson River Pkwy
+New England Thruway, NB, Exit 10, Gun Hill Rd
+New England Thruway, NB, Exit 11, Bartow Ave/Co-op City Blvd
+New England Thruway, NB, Exit 12, Baychester Ave
+New England Thruway, NB, Exit 13, Conner St
+New England Thruway, NB, Bronx/Westchester County Line
+New England Thruway, SB, Bronx/Westchester County Line
+New England Thruway, SB, Exit 14, SB Hutchinson River Pkwy
+New England Thruway, SB, Exit 13, Conner St/Baychester Ave
+New England Thruway, SB, Exit 11, Bartow Ave/Co-op City Blvd
+New England Thruway, SB, Exit 9, NB Hutchinson River Pkwy
+New England Thruway, SB, Exit 8C, WB Pelham Pkwy
+New England Thruway, SB, Exit 8B, Orchard Beach/City Island
+Bruckner Expressway, SB, Exit 8A, Westchester Ave
+Bruckner Expressway, SB, Exit 7B, E. Tremont Ave
+Bruckner Expressway, SB, Exit 7A, Throgs Neck Br
+Bruckner Expressway, SB, Exit 6B, Bruckner Expwy/RFK Bridge
+Bruckner Expressway SB, Exit 6A, Whitestone Br/Bruckner Blvd
+Cross Bronx Expressway, SB, Exit 5A, Whiteplains Rd/Westchester Ave
+Cross Bronx Expressway, SB, Exit 4B, Rosedale Ave/Bronx River Pkwy
+Cross Bronx Expressway, SB, Exit 3, Third Ave/Webster Ave
+Cross Bronx Expressway, SB, Exit 2A, Jerome Ave
+Cross Bronx Expressway, SB, Exits 1D-C-B, Major Deegan Expwy
+Trans Manhattan Expwy, SB, Exit 1A, HHP/W.181st St
+Trans Manhattan Expwy, SB, GWB
