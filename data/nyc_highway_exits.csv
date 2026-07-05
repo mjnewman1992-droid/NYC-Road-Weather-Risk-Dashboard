@@ -273,7 +273,7 @@ JFK Expressway, SB, Terms 5/7/8
 Bruckner Expressway, WB, Cross Bronx Expwy
 Bruckner Expressway, WB, Exit 53, White Plains Rd
 Bruckner Expressway, WB, Exit 51, Bronx River Ave
-Bruckner Expressway, WB, Exit 50, Tiffany St,
+Bruckner Expressway, WB, Exit 50, Tiffany St
 Bruckner Expressway, WB, Exit 48, Leggett Ave/Hunts Point Ave
 Bruckner Expressway, WB, Exit 47, MDE
 RFK Bridge, WB, Exit 46, FDR Drive
@@ -492,11 +492,84 @@ Bruckner Expressway, SB, Exit 8A, Westchester Ave
 Bruckner Expressway, SB, Exit 7B, E. Tremont Ave
 Bruckner Expressway, SB, Exit 7A, Throgs Neck Br
 Bruckner Expressway, SB, Exit 6B, Bruckner Expwy/RFK Bridge
-Bruckner Expressway SB, Exit 6A, Whitestone Br/Bruckner Blvd
+Bruckner Expressway, SB, Exit 6A, Whitestone Br/Bruckner Blvd
 Cross Bronx Expressway, SB, Exit 5A, Whiteplains Rd/Westchester Ave
 Cross Bronx Expressway, SB, Exit 4B, Rosedale Ave/Bronx River Pkwy
 Cross Bronx Expressway, SB, Exit 3, Third Ave/Webster Ave
 Cross Bronx Expressway, SB, Exit 2A, Jerome Ave
 Cross Bronx Expressway, SB, Exits 1D-C-B, Major Deegan Expwy
-Trans Manhattan Expwy, SB, Exit 1A, HHP/W.181st St
-Trans Manhattan Expwy, SB, GWB
+Trans Manhattan Expressway, SB, Exit 1A, HHP/W.181st St
+Trans Manhattan Expressway, SB, GWB
+
+FDR Drive, NB, Battery Park Underpass
+FDR Drive, NB, Exit 1, South St
+FDR Drive, NB, Exit 2, Brooklyn Br
+FDR Drive, NB, Exit 5, Houston St/Williamburg Br
+FDR Drive, NB, Exit 7, E. 20th St-E. 33rd St
+FDR Drive, NB, Exit 8, E. 34th St/QMT-EB LIE
+FDR Drive, NB, Exit 9. E 42nd St
+FDR Drive, NB, Exit 12, E. 61st St/Queensboro Br
+FDR Drive, NB, Exit 14, E. 96th St
+FDR Drive, NB, Exit 17, RFK Br/Bruckner Expwy/GCP
+Harlem River Drive, NB, Exit 18, Willis Ave Br/MDE
+Harlem River Drive, NB, Exit 19, E. 125th St
+Harlem River Drive, NB, Exit 21, E. 135th St/Madison Ave Br
+Harlem River Drive, NB, Exit 23, 8th Ave/W. 155th St
+Harlem River Drive, NB, Exit 24, GWB/SB CBX/Amsterdam Ave/W. 179th St
+Harlem River Drive, NB, Dyckman St/10th Ave
+Harlem River Drive, SB, Dyckman St/10th Ave
+Harlem River Drive, SB, Exit 23, Frederick Douglass Blvd/W. 155th St
+Harlem River Drive, SB, Exit 22, 5th Ave/ W. 142nd St
+Harlem River Drive, SB, Exit 20, Park Ave/E. 132nd St
+Harlem River Drive, SB, Exit 19, 2nd Ave/E. 125th St
+Harlem River Drive, SB, Exit 17, RFK Br/Bruckner Expwy/GCP 
+FDR Drive, SB, Exit 16, E. 116th St
+FDR Drive, SB, Exit 15, E. 106th St
+FDR Drive, SB, Exit 14, E. 96th St
+FDR Drive, SB, Exit 13, E. 71st St
+FDR Drive, SB, Exit 12, E. 63rd St/Queensboro Br
+FDR Drive, SB, Exit 11, E. 53rd St
+FDR Drive, SB, Exit 10, E. 49th St
+FDR Drive, SB, Exit 8, QMT-EB LIE/E. 34th St
+FDR Drive, SB, Exit 7, E. 23rd St
+FDR Drive, SB, Exit 4, Grand St
+FDR Drive, SB, Exit 3, South St/Manhattan Br
+FDR Drive, SB, Exit 1, Battery Park/ SI Ferry
+FDR Drive, SB, Battery Park Underpass
+
+Henry Hudson Parkway, NB, 56th-57th Sts
+Henry Hudson Parkway, NB, Exit 10A, W. 79th St
+Henry Hudson Parkway, NB, Exit 10B, Boat Basin
+Henry Hudson Parkway, NB, Exit 11, W. 96th St
+Henry Hudson Parkway, NB, Exit 12, W. 125th St
+Henry Hudson Parkway, NB, Exit 13, W. 158th St
+Henry Hudson Parkway, NB, Exit 14, GWB/CBX/W. 178th St
+Henry Hudson Parkway, NB, Exit 15. SB Riverside Dr
+Henry Hudson Parkway, NB, Exit 16, Fort Trylon Park
+Henry Hudson Parkway, NB, Exit 17, Dyckman St
+Henry Hudson Parkway, NB, Henry Hudson Br
+Henry Hudson Parkway, NB, Exit 18, Kappock St
+Henry Hudson Parkway, NB, Exit 19, W. 232nd St
+Henry Hudson Parkway, NB, Exit 20, W. 239th St
+Henry Hudson Parkway, NB, Exit 21, W. 246 St/W. 250th St
+Henry Hudson Parkway, NB, Exit 22, W. 253rd St/Riverdale Ave
+Henry Hudson Parkway, NB, Exit 23A, SB Broadway
+Henry Hudson Parkway, NB, Exit 23B, NB Broadway
+Henry Hudson Parkway, NB, Exit 24, Mosholu Pkwy
+Henry Hudson Parkway, NB, Saw Mill River Pkwy/Westcher County
+Henry Hudson Parkway, SB, Saw Mill River Pkwy/Westcher County
+Henry Hudson Parkway, SB, Exit 24, Mosholu Pkwy
+Henry Hudson Parkway, SB, Exit 23, NB Broadway
+Henry Hudson Parkway, SB, Exit 22, W. 254th St/Riverdale Ave
+Henry Hudson Parkway, SB, Exit 21, W. 246th St
+Henry Hudson Parkway, SB, Exit 20, W. 237th St
+Henry Hudson Parkway, SB, Exit 19, W. 232nd St
+Henry Hudson Parkway, SB, Exit 18, Kappock St
+Henry Hudson Parkway, SB, Henry Hudson Br
+Henry Hudson Parkway, SB, Exit 17, Dyckman St
+Henry Hudson Parkway, SB, Exit 14, GWB/CBX/Riverside Dr
+Henry Hudson Parkway, SB, Exit 13, W. 158th St
+Henry Hudson Parkway, SB, Exit 12, W. 125th St
+Henry Hudson Parkway, SB, Exit 11, W. 95th St
+Henry Hudson Parkway, SB, Exit 10, W. 79th St/Boat Basin
+Henry Hudson Parkway, SB, 56th-57th Sts
