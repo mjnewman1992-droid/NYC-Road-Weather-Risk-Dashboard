@@ -16,7 +16,7 @@ I-678, NB, Exit 12B WB I-495/Manhattan
 I-678, NB, Exit 13, Northern Blvd/Astoria Blvd/ RFK Br
 I-678, NB, Exit 14, Linden Pl
 I-678, NB, Exit 15, 20th Ave
-I-678 NB, Exit 16, SB CIP
+I-678, NB, Exit 16, SB CIP
 I-678, NB, Exit 17, 3rd Ave
 I-678, NB, Whitestone Br
 I-678, NB, Exit 18 Lafayette Ave
@@ -62,7 +62,7 @@ I-495, WB, Exit 20, Junction Blvd
 I-495, WB, Exit 19, Woodhaven Blvd/Queens Blvd
 I-495, WB, Exit 18, Maurice Ave
 I-495, WB, Exit 17W, I-278
-I-495 WB, Exit 16, Hunters Point Ave/Greenpoint Ave
+I-495, WB, Exit 16, Hunters Point Ave/Greenpoint Ave
 I-495, WB, Exit 15, Van Dam St
 I-495, WB, QMT
 I-495, EB, QMT
@@ -395,7 +395,7 @@ NY-440/Dr. MLKE, SB, Victory Blvd
 I-87, NB, RFK Bridge/EB I-287
 I-87, NB, Exit 2, Willis Ave/Third Ave Br
 I-87, NB, Exit 3, Grand Concourse/E. 138th
-I-87 NB, Exit 4, E. 149th St/145th St Br
+I-87, NB, Exit 4, E. 149th St/145th St Br
 I-87, NB, Exit 5, E.161st St/Malcombs Dam Br
 I-87, NB, Exits 7N-S, I-95/GWB
 I-87, NB, Exit 8, W. 179th St
