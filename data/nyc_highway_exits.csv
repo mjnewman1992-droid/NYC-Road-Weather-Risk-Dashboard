@@ -18,13 +18,13 @@ I-678, NB, Exit 14, Linden Pl
 I-678, NB, Exit 15, 20th Ave
 I-678, NB, Exit 16, SB CIP
 I-678, NB, Exit 17, 3rd Ave
-I-678, NB, Whitestone Br
+I-678, NB, Bridge, Whitestone Br
 I-678, NB, Exit 18 Lafayette Ave
 I-678, NB, Exits 19N-S-W I-95/I-278
-I-678, NB, Hutchinson River Pkwy
-I-678, SB, Hutchinson River Pkwy
+I-678, NB, Terminus, Hutchinson River Pkwy
+I-678, SB, Terminus, Hutchinson River Pkwy
 I-678, SB, Exit 18, Ferry Point Park/Lafayette Ave
-I-678, SB, Whitestone Br
+I-678, SB, Bridge, Whitestone Br
 I-678, SB, Exit 17, 14th Ave
 I-678, SB, Exit 16, Cross Island Pkwy
 I-678, SB, Exit 15, 20th Ave
@@ -45,9 +45,9 @@ I-678, SB, Exit D, Airport Hotels
 I-678, SB, Exit C, Long Term Parking/Rental Cars/Cargo Areas
 I-678, SB, Exit B, Cell Phone Lot/PA Admin/General Aviation
 I-678, SB, Exit A, PAPD
-I-678, SB, Terminal 4 Arrivals
+I-678, SB, Terminus, Terminal 4 Arrivals
 
-I-495, WB, Nassau/Queens Line
+I-495, WB, Connection, Nassau/Queens Line
 I-495, WB, Exit 32, Little Neck Pkwy/Douglaston Pkwy
 I-495, WB, Exit 31N-S, CIP
 I-495, WB, Exit 29, Springfield Blvd
@@ -64,8 +64,8 @@ I-495, WB, Exit 18, Maurice Ave
 I-495, WB, Exit 17W, I-278
 I-495, WB, Exit 16, Hunters Point Ave/Greenpoint Ave
 I-495, WB, Exit 15, Van Dam St
-I-495, WB, QMT
-I-495, EB, QMT
+I-495, WB, Terminus, QMT
+I-495, EB, Terminus, QMT
 I-495, EB, Exit 13, Borden Ave/Pulaski Br
 I-495, EB, Exit 14, 25A E/21st St
 I-495, EB, Exits 17W-E, I-278
@@ -81,9 +81,9 @@ I-495, EB, Exit 29, Springfield Blvd
 I-495, EB, Exit 30, E. Hampton Blvd/Douglaston Pkwy
 I-495, EB, Exit 31S, SB CIP
 I-495, EB, Exit 32, Little Neck Pkwy
-I-495, EB, Queens Line/Nassau Line
+I-495, EB, Connection, Queens Line/Nassau Line
 
-Grand Central Parkway, WB, NSP
+Grand Central Parkway, Connection, WB, NSP
 Grand Central Parkway, WB, Exit 24, Little Neck Pkwy 
 Grand Central Parkway, WB, Exit 23, I-295/Union Tpke
 Grand Central Parkway, WB, Exit 21, I-295/Hillside Ave
@@ -100,9 +100,9 @@ Grand Central Parkway, WB, Exit 9E, I-678/Northern Blvd
 Grand Central Parkway, WB, Exit 7, LGA Terms B & C / 94th St
 Grand Central Parkway, WB, Exit 5, 82nd St / LGA Term A
 Grand Central Parkway, WB, Exit 4 / I-278
-Grand Central Parkway, WB, RFK Bridge
-Grand Central Parkway, EB, RFK Bridge
-Grand Central Parkway, EB, WB I-278
+Grand Central Parkway, WB, Terminus, RFK Bridge
+Grand Central Parkway, EB, Terminus, RFK Bridge
+Grand Central Parkway, EB, Connection, WB I-278
 Grand Central Parkway, EB, Exit 5, Astoria Blvd/82nd St/Term A/Term B Parking
 Grand Central Parkway, EB, Exit 6, 94th St/Term B Parking
 Grand Central Parkway, EB, Exit 7, LGA-Terms B & C
@@ -122,8 +122,9 @@ Grand Central Parkway, EB, Exit 21, CVE/Hillside Ave
 Grand Central Parkway, EB, Exit 22, Union Tpke
 Grand Central Parkway, EB, Exit 23, CIP/Winchester Blvd
 Grand Central Parkway, EB, Exit 24, Little Neck Pkwy
-Grand Central Parkway, EB, NSP
+Grand Central Parkway, EB, Terminus, NSP
 
+Belt Parkway, WB, Connection, CIP
 Belt Parkway, WB, Exit 25A, SSP
 Belt Parkway, WB, Exit 24B, Merrick Blvd
 Belt Parkway, WB, Exit 24A, Francis Lewis Blvd
@@ -152,8 +153,8 @@ Belt Parkway, WB, Exit 4, 14th Ave/Bay 8th St
 Belt Parkway, WB, Exit 3, VZ-Bridge/I-278
 Belt Parkway, WB, Exit 2, 4th Ave/Fort Hamilton Pkwy
 Belt Parkway, WB, Exit 1, 65th St/67th St
-Belt Parkway, WB, I-278
-Belt Parkway, EB, I-278
+Belt Parkway, WB, Terminus, I-278
+Belt Parkway, EB, Terminus, I-278
 Belt Parkway, EB, Exit 1, 65th St/67th St
 Belt Parkway, EB, Exit 2, 4th Ave/Ft. Hamilton Pkwy
 Belt Parkway, EB, Exit 4, 14th Ave/Bay 8th St
@@ -177,8 +178,9 @@ Belt Parkway, EB, Exit 23B, Sunrise Hwe/Brookville Blvd
 Belt Parkway, EB, Exit 24A, Merrickl Blvd/Francis Lewis Blvd
 Belt Parkway, EB, Exit 24B, 130th Ave
 Belt Parkway, EB, Exit 25A, SSP
+Belt Parkway, EB, Connection, CIP
 
-Cross Island Parkway, NB, Belt Pkwy/SSP
+Cross Island Parkway, NB, Connection, Belt Pkwy/SSP
 Cross Island Parkway, NB, Exit 25B, Elmont Rd/Linden Blvd
 Cross Island Parkway, NB, Exit 26A, UBS Arena-Belmont Park
 Cross Island Parkway, NB, Exit 26B, Hempstead Ave/Belmont Racetrack
@@ -196,7 +198,7 @@ Cross Island Parkway, NB, Exit 33, NB I-295/Throgs Neck Br/Bronx
 Cross Island Parkway, NB, Exit 34, Utopia Pkwy
 Cross Island Parkway, NB, Exit 36N, Whitestone Br/Bronx
 Cross Island Parkway, NB, Exit 36S, SB I-678/Whitestone Expwy
-Cross Island Parkway, SB, SB I-678/Whitestone Br
+Cross Island Parkway, SB, Terminus, SB I-678/Whitestone Br
 Cross Island Parkway, SB, Exit 35, 14th Ave/Francis Lewis Blvd
 Cross Island Parkway, SB, Exit 34, 160th St/Utopia Pkwy
 Cross Island Parkway, SB, Exit 33, SB I-295/Bell Blvd
@@ -214,25 +216,25 @@ Cross Island Parkway, SB, Exit 26B, EB Hempststead Ave/Belmont Racetrack
 Cross Island Parkway, SB, Exit 26A, UBS Arena-Belmont Park
 Cross Island Parkway, SB, Exit 25B, Linden Blvd
 Cross Island Parkway, SB, Exit 25A, SSP
-Cross Island Parkway, SB, Belt Pkwy
+Cross Island Parkway, SB, Connection, Belt Pkwy
 
-I-295, NB, Hillside Ave
+I-295, NB, Terminus, Hillside Ave
 I-295, NB, Exit 1, GCP
 I-295, NB, Exit 2, Union Tpke
 I-295, NB, Exits 4E-W, I-495
 I-295, NB, Exit 5, Northern Blvd
 I-295, NB, Exit 6A, 35th Ave
 I-295, NB, Exit 7, Willets Point Blvd
-I-295, NB, Throgs Neck Bridge
+I-295, NB, Bridge, Throgs Neck Bridge
 I-295, NB, Exit 9, Pennyfield Ave/Fort Schuyler
 I-295, NB, Exit 10, Throgs Neck Expwy
 I-295, NB, Exit 11, Randall Ave
 I-295, NB, Exit 12 WB I-278
-I-295, NB, SB I-95
-I-295, SB, I-95
+I-295, NB, Terminus, SB I-95
+I-295, SB, Terminus, I-95
 I-295, SB, Exit 11, Randall Ave
 I-295, SB, Exit 9, Harding Ave/Pennyfield Ave
-I-295, SB, Throgs Neck Bridge
+I-295, SB, Bridge, Throgs Neck Bridge
 I-295, SB, Exit 8, SB CIP
 I-295, SB, Exit 6B, 26th Ave
 I-295, SB, Exit 6A, 35th Ave
@@ -241,16 +243,16 @@ I-295, SB, Exits 4E-W, I-495
 I-295, SB, Exit 3, 73rd Ave
 I-295, SB, Exit 2, Union Tpke
 I-295, SB, Exit 1, GCP
-I-295, SB, Hillside Ave
+I-295, SB, Terminus, Hillside Ave
 
-Jackie Robinson Parkway, WB, I-495/GCP
+Jackie Robinson Parkway, WB, Terminus, I-495/GCP
 Jackie Robinson Parkway, WB, Exit 6, Metropolitan Ave
 Jackie Robinson Parkway, WB, Exit 4, Forest Park Dr/Myrtle Ave/Woodhaven Blvd
 Jackie Robinson Parkway, WB, Exit 3, Cypress Hill St
 Jackie Robinson Parkway, WB, Exit 2, Cyprus Ave/Vermont Ave
 Jackie Robinson Parkway, WB, Exit 1, Bushwick Ave
-Jackie Robinson Parkway, WB, Pennsylvania Ave/E. New York Ave
-Jackie Robinson Parkway, EB, Pennsylvania Ave/E. New York Ave
+Jackie Robinson Parkway, WB, Terminus, Pennsylvania Ave/E. New York Ave
+Jackie Robinson Parkway, EB, Terminus, Pennsylvania Ave/E. New York Ave
 Jackie Robinson Parkway, EB, Exit 2, Cyprus Ave/Vermont Ave
 Jackie Robinson Parkway, EB, Exit 3, Cypress Hill St
 Jackie Robinson Parkway, EB, Exit 4, Forest Park Dr
@@ -260,17 +262,17 @@ Jackie Robinson Parkway, EB, Exit 7, NB I-678
 Jackie Robinson Parkway, EB, Exit 8W, WB GCP
 Jackie Robinson Parkway, EB, Exit 8E, EB GCP
 
-JFK Expressway, NB, Beginning of Highway
+JFK Expressway, NB, Terminus, Beginning of Highway
 JFK Expressway, NB, Exit 1, S. Cargo Rd
 JFK Expressway, NB, Exit 2, WB Belt Pkwy/EB Nassau Expwy
-JFK Expressway, NB, EB Belt Pkwy
-JFK Expressway, SB, WB Belt Pkwy
+JFK Expressway, NB, Terminus, EB Belt Pkwy
+JFK Expressway, SB, Terminus, WB Belt Pkwy
 JFK Expressway, SB, Cargo Service Rd/Terms 1 & 4
 JFK Expressway, SB, Exit 2, 148th St
 JFK Expressway, SB, Exit 1, S. Cargo Rd
-JFK Expressway, SB, Terms 5/7/8
+JFK Expressway, SB, Terminus, Terms 5/7/8
 
-I-278, WB, I-95
+I-278, WB, Terminus, I-95
 I-278, WB, Exit 53, White Plains Rd
 I-278, WB, Exit 51, Bronx River Ave
 I-278, WB, Exit 50, Tiffany St
@@ -278,9 +280,9 @@ I-278, WB, Exit 48, Leggett Ave/Hunts Point Ave
 I-278, WB, Exit 47, I-87
 I-278, WB, Exit 46, FDR Drive
 I-278, WB, Exit 46A, Randalls Island
-I-278, WB, RFK Bridge
+I-278, WB, Bridge, RFK Bridge
 I-278, WB, Exit 45, 31st St/Astoria Blvd
-I-278, WB, EB GCP/LGA Airport
+I-278, WB, Connection, EB GCP/LGA Airport
 I-278, WB, Exit 41, Northern Blvd
 I-278, WB, Exit 40, Broadway/Roosevelt Ave
 I-278, WB, Exit 39W, WB Queens Blvd
@@ -300,7 +302,7 @@ I-278, WB, Exit 22, EB Belt Pkwy
 I-278, WB, Exit 20, 6th Ave
 I-278, WB, Exit 19, 96th St
 I-278, WB, Exit 17, 92nd St
-I-278, WB, Verrazano Bridge
+I-278, WB, Bridge, Verrazano Bridge
 I-278, WB, Exit 15N, Bay St
 I-278, WB, Exit 15S, SB Lily Pond Ave/Father Capodanno Blvd
 I-278, WB, Exit 15W, WB Narrows Rd/Fingerboard Rd
@@ -315,8 +317,8 @@ I-278, WB, Exit 7, Richmond Ave
 I-278, WB, Exit 6, South Ave
 I-278, WB, Exit 5, SB NY-440
 I-278, WB, Exit 3, Western Ave
-I-278, WB, Goethals Br
-I-278, EB, Goethals Br
+I-278, WB, Terminus, Goethals Br
+I-278, EB, Terminus, Goethals Br
 I-278, EB, Exit 4, Forest Ave
 I-278, EB, Exit 5, SB NY-440
 I-278, EB, Exit 8, Victory Blvd
@@ -326,7 +328,7 @@ I-278, EB, Exit 12, Todt Hill Rd/Slosson Ave
 I-278, EB, Exit 13, Clove Rd/Richmond Rd/Targee St
 I-278, EB, Exit 14, Hylan Blvd
 I-278, EB, Exit 15, Fingerboard Rd/Lily Pond Ave
-I-278, EB, Verrazono Bridge
+I-278, EB, Bridge, Verrazono Bridge
 I-278, EB, Exit 16, EB Belt Pkwy
 I-278, EB, Exit 17, 92nd St
 I-278, EB, Exit 18, Fort Hamilton Parkway
@@ -352,17 +354,17 @@ I-278, EB, Exit 42, EB GCP/LGA Airport
 I-278, EB, Exit 43, 30th Ave
 I-278, EB, Exit 44, WB Astoria Blvd
 I-278, EB, Exit 45, 31st St
-I-278, EB, RFK Bridge
-I-278, Exit 46, Randalls Island
-I-278, Exit 47, NB I-87
-I-278, Exit 48, E. 138th St
-I-278, Exit 49, Sheridan Blvd
-I-278, Exit 52, NB Bronx River Pkwy
-I-278, Exit 53, White Plains Rd/Castle Hill Ave
-I-278, Exit 54, Queens bound Whitestone Br/Throgs Neck Br
-I-278, NB I-95/Bruckner Expwy
+I-278, EB, Bridge, RFK Bridge
+I-278, EB, Exit 46, Randalls Island
+I-278, EB, Exit 47, NB I-87
+I-278, EB, Exit 48, E. 138th St
+I-278, EB, Exit 49, Sheridan Blvd
+I-278, EB, Exit 52, NB Bronx River Pkwy
+I-278, EB, Exit 53, White Plains Rd/Castle Hill Ave
+I-278, EB, Exit 54, Queens bound Whitestone Br/Throgs Neck Br
+I-278, EB, Terminus, NB I-95/Bruckner Expwy
 
-NY-440/WSE, NB, Outerbridge Crossing
+NY-440/WSE, NB, Terminus, Outerbridge Crossing
 NY-440/WSE, NB, Exit 1, Page Ave
 NY-440/WSE, NB, Exit 2, NB Korean War Veterans Pkwy/Richmond Ave
 NY-440/WSE, NB, Exit 3, Woodrow Ave
@@ -370,29 +372,29 @@ NY-440/WSE, NB, Exit 4, Arthur King Rd/Huquenot Ave
 NY-440/WSE, NB, Exit 7, Victory Blvd
 NY-440/WSE, NB, Exit 8, South Ave
 NY-440/WSE, NB, Exit 9, Glen St
-NY-440/WSE, NB, EB SIE/Goethals Br
-NY-440/WSE, SB, SIE
+NY-440/WSE, NB, Terminus, EB SIE/Goethals Br
+NY-440/WSE, SB, Terminus, SIE
 NY-440/WSE, SB, Exit 7, Victory Blvd
 NY-440/WSE, SB, Exit 5, Muldoon Ave/Arden Ave
 NY-440/WSE, SB, Exit 3B, Bloomingdale Rd
 NY-440/WSE, SB, Exit 3A, Englewood Ave
 NY-440/WSE, SB, Exit 2, NB Korean War Verans Pkwy/Richmond Ave
 NY-440/WSE, SB, Exit 1, Arthur Kill Rd
+NY-440/WSE, SB, Terminus, Outerbridge Crossing
 
-NY-440/Dr. MLKE, NB, Victory Blvd
+NY-440/Dr. MLKE, NB, Terminus, Victory Blvd
 NY-440/Dr. MLKE, NB, Exit 10W, Goethals Br
 NY-440/Dr. MLKE, NB, Exit 12, Forest Ave
 NY-440/Dr. MLKE, NB, Exit 13, Richmond Terrace
-NY-440/Dr. MLKE, NB, Bayonne Bridge
-NY-440/Dr. MLKE, SB, Bayonne Bridge
+NY-440/Dr. MLKE, NB, Terminus, Bayonne Bridge
+NY-440/Dr. MLKE, SB, Terminus, Bayonne Bridge
 NY-440/Dr. MLKE, SB, Exit 13, Morningstar Rd/Richmond Terrace
 NY-440/Dr. MLKE, SB, Exit 12, Forest Ave
 NY-440/Dr. MLKE, SB, Exit 11, Victory Blvd
-NY-440/Dr. MLKE, SB, Exit 10E, EB SIE
-NY-440/Dr. MLKE, SB, Goethals Bridge
-NY-440/Dr. MLKE, SB, Victory Blvd
+NY-440/Dr. MLKE, SB, Exit 10E, Goethals Br/EB I-278
+NY-440/Dr. MLKE, SB, Terminus, Victory Blvd
 
-I-87, NB, RFK Bridge/EB I-287
+I-87, NB, Terminus, RFK Bridge/EB I-287
 I-87, NB, Exit 2, Willis Ave/Third Ave Br
 I-87, NB, Exit 3, Grand Concourse/E. 138th
 I-87, NB, Exit 4, E. 149th St/145th St Br
@@ -405,8 +407,8 @@ I-87, NB, Exit 11, Van Cortlandt Park S
 I-87, NB, Exit 12, SB Henry Hudson Pkwy/NB Saw Mill River Pkwy
 I-87, NB, Exit 13, E. 233rd St
 I-87, NB, Exit 14, McClean Ave
-I-87, NB, NYS Thruway
-I-87, SB, NYS Thruway
+I-87, NB, Connection, NYS Thruway
+I-87, SB, Connection, NYS Thruway
 I-87, SB, Exit 13, E. 233rd St
 I-87, SB, Exit 11, Van Cortlandt Park S
 I-87, SB, Exit 10, W. 230th St
@@ -417,9 +419,9 @@ I-87, SB, Exit 5, E. 161st St/Malcombs Dam Br
 I-87, SB, Exit 3, E. 138th St/Madison Ave Br
 I-87, SB, Exit 2, Willis Ave/Third Ave Br
 I-87, SB, Exit 1, Brook Ave
-I-87, SB, RFK Bridge/EB I-278
+I-87, SB, Terminus, RFK Bridge/EB I-278
 
-Bronx River Parkway, NB, I-278
+Bronx River Parkway, NB, Terminus, I-278
 Bronx River Parkway, NB, Exit 4, I-95
 Bronx River Parkway, NB, Exit 6, NB Boston Rd/Bronx Zoo
 Bronx River Parkway, NB, Exit 7E, Pelham Pkwy
@@ -428,8 +430,8 @@ Bronx River Parkway, NB, Exit 8E, Allerton Ave
 Bronx River Parkway, NB, Exit 8W, Mosholu Pkwy
 Bronx River Parkway, NB, Exit 9, Gun Hill Rd
 Bronx River Parkway, NB, Exit 10, E. 233rd St
-Bronx River Parkway, NB, Bronx/Westchester County Line
-Bronx River Parkway, SB, Bronx/Westchester County Line
+Bronx River Parkway, NB, Connection, Bronx/Westchester County Line
+Bronx River Parkway, SB, Connection, Bronx/Westchester County Line
 Bronx River Parkway, SB, Exit 10, E. 233rd St
 Bronx River Parkway, SB, Exit 9, Gun Hill Rd
 Bronx River Parkway, SB, Exits 8W-E, Mosholu Pkwy/Allerton Ave
@@ -442,7 +444,7 @@ Bronx River Parkway, SB, Exit 3, Westchester Ave
 Bronx River Parkway, SB, Exit 2E, I-278
 Bronx River Parkway, SB, Exit 1, Story Ave
 
-Hutchinson River Parkway, NB, I-95
+Hutchinson River Parkway, NB, Terminus, I-95/Whitestone Br
 Hutchinson River Parkway, NB, Exit 1A, WB Bruckner Blvd
 Hutchinson River Parkway, NB, Exit 1B, E. Tremont Ave/Westchester Ave
 Hutchinson River Parkway, NB, Exit 1C, EB Pelham Pkwy
@@ -450,17 +452,17 @@ Hutchinson River Parkway, NB, Exit 1D, WB Pelham Pkwy
 Hutchinson River Parkway, NB, Exit 2, Bartow Ave
 Hutchinson River Parkway, NB, Exit 3, Orchard Beach/City Island
 Hutchinson River Parkway, NB, Exit 48, NB I-95
-Hutchinson River Parkway, NB, Bronx/Westchester County Line
-Hutchinson River Parkway, SB, Bronx/Westchester County Line
+Hutchinson River Parkway, NB, Connection, Bronx/Westchester County Line
+Hutchinson River Parkway, SB, Connection, Bronx/Westchester County Line
 Hutchinson River Parkway, SB, Exit 3, Orchard Beach
 Hutchinson River Parkway, SB, Exit 2B, NB I-95
 Hutchinson River Parkway, SB, Exit 2A, SB I-95/GWB
 Hutchinson River Parkway, SB, Exit 1C, EB Pelham Pkwy
 Hutchinson River Parkway, SB, Exit 1B, E. Tremont Ave/Westchester Ave
 Hutchinson River Parkway, SB, Exit 1A, Bruckner Blvd/I-95/I-278
-Hutchinson River Parkway, SB, Whitestone Br
+Hutchinson River Parkway, SB, Terminus, I-95/Whitestone Br
 
-I-95, NB, GWB
+I-95, NB, Connection, GWB
 I-95, NB, Exit 1A, Henry Hudson Pkwy/W. 178th St
 I-95, NB, Exit 1B, SB Harlem River Dr
 I-95, NB, Exits 1C-D, I-87
@@ -479,8 +481,8 @@ I-95, NB, Exit 10, Gun Hill Rd
 I-95, NB, Exit 11, Bartow Ave/Co-op City Blvd
 I-95, NB, Exit 12, Baychester Ave
 I-95, NB, Exit 13, Conner St
-I-95, NB, Bronx/Westchester County Line
-I-95, SB, Bronx/Westchester County Line
+I-95, NB, Connection, Bronx/Westchester County Line
+I-95, SB, Connection, Bronx/Westchester County Line
 I-95, SB, Exit 14, SB Hutchinson River Pkwy
 I-95, SB, Exit 13, Conner St/Baychester Ave
 I-95, SB, Exit 11, Bartow Ave/Co-op City Blvd
@@ -498,9 +500,9 @@ I-95, SB, Exit 3, Third Ave/Webster Ave
 I-95, SB, Exit 2A, Jerome Ave
 I-95, SB, Exits 1D-C-B, I-87
 I-95, SB, Exit 1A, HHP/W.181st St
-I-95, SB, GWB
+I-95, SB, Connection, GWB
 
-FDR Drive, NB, Battery Park Underpass
+FDR Drive, NB, Terminus, Battery Park Underpass
 FDR Drive, NB, Exit 1, South St
 FDR Drive, NB, Exit 2, Brooklyn Br
 FDR Drive, NB, Exit 5, Houston St/Williamburg Br
@@ -510,18 +512,20 @@ FDR Drive, NB, Exit 9. E 42nd St
 FDR Drive, NB, Exit 12, E. 61st St/Queensboro Br
 FDR Drive, NB, Exit 14, E. 96th St
 FDR Drive, NB, Exit 17, RFK Br/I-278/GCP
+FDR Drive, NB, Connection, Harlem River Drive
 Harlem River Drive, NB, Exit 18, Willis Ave Br/I-87
 Harlem River Drive, NB, Exit 19, E. 125th St
 Harlem River Drive, NB, Exit 21, E. 135th St/Madison Ave Br
 Harlem River Drive, NB, Exit 23, 8th Ave/W. 155th St
 Harlem River Drive, NB, Exit 24, GWB/SB I-95/Amsterdam Ave/W. 179th St
-Harlem River Drive, NB, Dyckman St/10th Ave
-Harlem River Drive, SB, Dyckman St/10th Ave
+Harlem River Drive, NB, Terminus, Dyckman St/10th Ave
+Harlem River Drive, SB, Terminus, Dyckman St/10th Ave
 Harlem River Drive, SB, Exit 23, Frederick Douglass Blvd/W. 155th St
 Harlem River Drive, SB, Exit 22, 5th Ave/ W. 142nd St
 Harlem River Drive, SB, Exit 20, Park Ave/E. 132nd St
 Harlem River Drive, SB, Exit 19, 2nd Ave/E. 125th St
 Harlem River Drive, SB, Exit 17, RFK Br/I-278/GCP 
+Harlem River Drive, SB, Connection, FDR Drive
 FDR Drive, SB, Exit 16, E. 116th St
 FDR Drive, SB, Exit 15, E. 106th St
 FDR Drive, SB, Exit 14, E. 96th St
@@ -534,9 +538,9 @@ FDR Drive, SB, Exit 7, E. 23rd St
 FDR Drive, SB, Exit 4, Grand St
 FDR Drive, SB, Exit 3, South St/Manhattan Br
 FDR Drive, SB, Exit 1, Battery Park/ SI Ferry
-FDR Drive, SB, Battery Park Underpass
+FDR Drive, SB, Terminus, Battery Park Underpass
 
-Henry Hudson Parkway, NB, 56th-57th Sts
+Henry Hudson Parkway, Connection, NB, 56th-57th Sts
 Henry Hudson Parkway, NB, Exit 10A, W. 79th St
 Henry Hudson Parkway, NB, Exit 10B, Boat Basin
 Henry Hudson Parkway, NB, Exit 11, W. 96th St
@@ -546,7 +550,7 @@ Henry Hudson Parkway, NB, Exit 14, GWB/I-95/W. 178th St
 Henry Hudson Parkway, NB, Exit 15. SB Riverside Dr
 Henry Hudson Parkway, NB, Exit 16, Fort Trylon Park
 Henry Hudson Parkway, NB, Exit 17, Dyckman St
-Henry Hudson Parkway, NB, Henry Hudson Br
+Henry Hudson Parkway, NB, Bridge, Henry Hudson Br
 Henry Hudson Parkway, NB, Exit 18, Kappock St
 Henry Hudson Parkway, NB, Exit 19, W. 232nd St
 Henry Hudson Parkway, NB, Exit 20, W. 239th St
@@ -555,8 +559,8 @@ Henry Hudson Parkway, NB, Exit 22, W. 253rd St/Riverdale Ave
 Henry Hudson Parkway, NB, Exit 23A, SB Broadway
 Henry Hudson Parkway, NB, Exit 23B, NB Broadway
 Henry Hudson Parkway, NB, Exit 24, Mosholu Pkwy
-Henry Hudson Parkway, NB, Saw Mill River Pkwy/Westcher County
-Henry Hudson Parkway, SB, Saw Mill River Pkwy/Westcher County
+Henry Hudson Parkway, NB, Connection, Saw Mill River Pkwy/Westcher County
+Henry Hudson Parkway, SB, Connection, Saw Mill River Pkwy/Westcher County
 Henry Hudson Parkway, SB, Exit 24, Mosholu Pkwy
 Henry Hudson Parkway, SB, Exit 23, NB Broadway
 Henry Hudson Parkway, SB, Exit 22, W. 254th St/Riverdale Ave
@@ -564,11 +568,11 @@ Henry Hudson Parkway, SB, Exit 21, W. 246th St
 Henry Hudson Parkway, SB, Exit 20, W. 237th St
 Henry Hudson Parkway, SB, Exit 19, W. 232nd St
 Henry Hudson Parkway, SB, Exit 18, Kappock St
-Henry Hudson Parkway, SB, Henry Hudson Br
+Henry Hudson Parkway, SB, Bridge, Henry Hudson Br
 Henry Hudson Parkway, SB, Exit 17, Dyckman St
 Henry Hudson Parkway, SB, Exit 14, GWB/I-95/Riverside Dr
 Henry Hudson Parkway, SB, Exit 13, W. 158th St
 Henry Hudson Parkway, SB, Exit 12, W. 125th St
 Henry Hudson Parkway, SB, Exit 11, W. 95th St
 Henry Hudson Parkway, SB, Exit 10, W. 79th St/Boat Basin
-Henry Hudson Parkway, SB, 56th-57th Sts
+Henry Hudson Parkway, SB, Connection, 56th-57th Sts
