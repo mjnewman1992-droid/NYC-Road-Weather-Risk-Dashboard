@@ -12,15 +12,15 @@ I-678, NB, Exit 9, Queens Blvd/Hillside Ave
 I-678, NB, Exit 10, GCP/LGA Airport/RFK Br
 I-678, NB, Exit 11, 69th Rd/Jewel Ave
 I-678, NB, Exit 12A, EB I-495/ Eastern LI
-I-678, NB, Exit 12B WB I-495/Manhattan
+I-678, NB, Exit 12B, WB I-495/Manhattan
 I-678, NB, Exit 13, Northern Blvd/Astoria Blvd/ RFK Br
 I-678, NB, Exit 14, Linden Pl
 I-678, NB, Exit 15, 20th Ave
 I-678, NB, Exit 16, SB CIP
 I-678, NB, Exit 17, 3rd Ave
 I-678, NB, Bridge, Whitestone Br
-I-678, NB, Exit 18 Lafayette Ave
-I-678, NB, Exits 19N-S-W I-95/I-278
+I-678, NB, Exit 18, Lafayette Ave
+I-678, NB, Exits 19N-S-W, I-95/I-278
 I-678, NB, Terminus, Hutchinson River Pkwy
 I-678, SB, Terminus, Hutchinson River Pkwy
 I-678, SB, Exit 18, Ferry Point Park/Lafayette Ave
@@ -29,7 +29,7 @@ I-678, SB, Exit 17, 14th Ave
 I-678, SB, Exit 16, Cross Island Pkwy
 I-678, SB, Exit 15, 20th Ave
 I-678, SB, Exit 14, Linden Pl
-I-678, SB, Exits 13A-D/WB Astoria Blvd/GCP/LGA/N. Blvd/Citi Field
+I-678, SB, Exits 13A-D, WB Astoria Blvd/GCP/LGA/N. Blvd/Citi Field
 I-678, SB, Exit 12A, EB I-495/College Pt Blvd
 I-678, SB, Exit 12B, WB I-495/Manhattan
 I-678, SB, Exit 11, 69th Rd/Jewel Ave
@@ -83,7 +83,7 @@ I-495, EB, Exit 31S, SB CIP
 I-495, EB, Exit 32, Little Neck Pkwy
 I-495, EB, Connection, Queens Line/Nassau Line
 
-Grand Central Parkway, Connection, WB, NSP
+Grand Central Parkway, WB, Connection, NSP
 Grand Central Parkway, WB, Exit 24, Little Neck Pkwy 
 Grand Central Parkway, WB, Exit 23, I-295/Union Tpke
 Grand Central Parkway, WB, Exit 21, I-295/Hillside Ave
@@ -92,14 +92,14 @@ Grand Central Parkway, WB, Exit 20B, SB Francis Lewis Blvd
 Grand Central Parkway, WB, Exit 19, 188th St
 Grand Central Parkway, WB, Exit 17, 168th St/Parsons Blvd
 Grand Central Parkway, WB, Exit 15, Union Tpke/Queens Blvd
-Grand Central Parkway, WB, Exit 14 WB JRP
+Grand Central Parkway, WB, Exit 14, WB JRP
 Grand Central Parkway, WB, Exits 11E-W, Jewel Ave/69th Rd
 Grand Central Parkway, WB, Exits 10E-W, I-678
 Grand Central Parkway, WB, Exit 9P, Flushing Meadows/Corona Park
 Grand Central Parkway, WB, Exit 9E, I-678/Northern Blvd
 Grand Central Parkway, WB, Exit 7, LGA Terms B & C / 94th St
 Grand Central Parkway, WB, Exit 5, 82nd St / LGA Term A
-Grand Central Parkway, WB, Exit 4 / I-278
+Grand Central Parkway, WB, Exit 4, I-278
 Grand Central Parkway, WB, Terminus, RFK Bridge
 Grand Central Parkway, EB, Terminus, RFK Bridge
 Grand Central Parkway, EB, Connection, WB I-278
@@ -115,10 +115,10 @@ Grand Central Parkway, EB, Exit 13, I-678/JFK Airport
 Grand Central Parkway, EB, Exit 14, JRP/Union Tpke
 Grand Central Parkway, EB, Exit 16, Parsons Blvd/164th St
 Grand Central Parkway, EB, Exit 18, Union Tpke
-Grand Central Parkway, EB, Exit 19 188th St
+Grand Central Parkway, EB, Exit 19, 188th St
 Grand Central Parkway, EB, Exit 20B, SB Francis Lewis Blvd
 Grand Central Parkway, EB, Exit 20A, NB Francis Lewis Blvd
-Grand Central Parkway, EB, Exit 21, CVE/Hillside Ave
+Grand Central Parkway, EB, Exit 21, I-295/Hillside Ave
 Grand Central Parkway, EB, Exit 22, Union Tpke
 Grand Central Parkway, EB, Exit 23, CIP/Winchester Blvd
 Grand Central Parkway, EB, Exit 24, Little Neck Pkwy
@@ -227,9 +227,9 @@ I-295, NB, Exit 6A, 35th Ave
 I-295, NB, Exit 7, Willets Point Blvd
 I-295, NB, Bridge, Throgs Neck Bridge
 I-295, NB, Exit 9, Pennyfield Ave/Fort Schuyler
-I-295, NB, Exit 10, Throgs Neck Expwy
+I-295, NB, Exit 10, I-695
 I-295, NB, Exit 11, Randall Ave
-I-295, NB, Exit 12 WB I-278
+I-295, NB, Exit 12, WB I-278
 I-295, NB, Terminus, SB I-95
 I-295, SB, Terminus, I-95
 I-295, SB, Exit 11, Randall Ave
@@ -267,7 +267,7 @@ JFK Expressway, NB, Exit 1, S. Cargo Rd
 JFK Expressway, NB, Exit 2, WB Belt Pkwy/EB Nassau Expwy
 JFK Expressway, NB, Terminus, EB Belt Pkwy
 JFK Expressway, SB, Terminus, WB Belt Pkwy
-JFK Expressway, SB, Cargo Service Rd/Terms 1 & 4
+JFK Expressway, SB, Exit, Cargo Service Rd/Terms 1 & 4
 JFK Expressway, SB, Exit 2, 148th St
 JFK Expressway, SB, Exit 1, S. Cargo Rd
 JFK Expressway, SB, Terminus, Terms 5/7/8
@@ -286,13 +286,13 @@ I-278, WB, Connection, EB GCP/LGA Airport
 I-278, WB, Exit 41, Northern Blvd
 I-278, WB, Exit 40, Broadway/Roosevelt Ave
 I-278, WB, Exit 39W, WB Queens Blvd
-I-278, WB, Exit 39E EB Queens Blvd/58th St
+I-278, WB, Exit 39E, EB Queens Blvd/58th St
 I-278, WB, Exit 35, I-495/Greenpoint Ave
 I-278, WB, Exit 34, Meeker Ave/Vandervoort Ave
 I-278, WB, Exit 32B, Metropolitan Ave
 I-278, WB, Exit 32A, Williamsburg Br
 I-278, WB, Exit 31, Wythe Ave/Kent Ave
-I-278, WB, Exit 29 Tillary St/Manhattan Br
+I-278, WB, Exit 29, Tillary St/Manhattan Br
 I-278, WB, Exit 28, Camdan Plaza W/Brooklyn Br
 I-278, WB, Exit 27, Atlantic Ave
 I-278, WB, Exit 26, Hamilton Ave/Hugh Carey Tunnel
@@ -508,7 +508,7 @@ FDR Drive, NB, Exit 2, Brooklyn Br
 FDR Drive, NB, Exit 5, Houston St/Williamburg Br
 FDR Drive, NB, Exit 7, E. 20th St-E. 33rd St
 FDR Drive, NB, Exit 8, E. 34th St/QMT-EB I-495
-FDR Drive, NB, Exit 9. E 42nd St
+FDR Drive, NB, Exit 9, E 42nd St
 FDR Drive, NB, Exit 12, E. 61st St/Queensboro Br
 FDR Drive, NB, Exit 14, E. 96th St
 FDR Drive, NB, Exit 17, RFK Br/I-278/GCP
@@ -540,14 +540,14 @@ FDR Drive, SB, Exit 3, South St/Manhattan Br
 FDR Drive, SB, Exit 1, Battery Park/ SI Ferry
 FDR Drive, SB, Terminus, Battery Park Underpass
 
-Henry Hudson Parkway, Connection, NB, 56th-57th Sts
+Henry Hudson Parkway, NB, Connection, 56th-57th Sts
 Henry Hudson Parkway, NB, Exit 10A, W. 79th St
 Henry Hudson Parkway, NB, Exit 10B, Boat Basin
 Henry Hudson Parkway, NB, Exit 11, W. 96th St
 Henry Hudson Parkway, NB, Exit 12, W. 125th St
 Henry Hudson Parkway, NB, Exit 13, W. 158th St
 Henry Hudson Parkway, NB, Exit 14, GWB/I-95/W. 178th St
-Henry Hudson Parkway, NB, Exit 15. SB Riverside Dr
+Henry Hudson Parkway, NB, Exit 15, SB Riverside Dr
 Henry Hudson Parkway, NB, Exit 16, Fort Trylon Park
 Henry Hudson Parkway, NB, Exit 17, Dyckman St
 Henry Hudson Parkway, NB, Bridge, Henry Hudson Br
