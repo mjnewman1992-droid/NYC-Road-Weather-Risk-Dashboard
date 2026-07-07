@@ -1,6 +1,6 @@
 import pandas as pd
 import plotly.express as px
-from dash import Dash, dcc, html
+from dash import Dash, dcc, html, Input, Output
 from dash import dash_table
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
@@ -13,7 +13,11 @@ app.title = "NYC Road Weather Risk Dashboard"
 
 df = pd.read_csv("data/corridors.csv") #Reads corridor data from CSV
 df_highways = pd.read_csv("data/nyc_highway_exits.csv")
-print(df_highways.head())
+default_highway = sorted(df_highways["Highway"].unique())[0]
+default_direction = sorted(df_highways["Direction"].unique())[0]
+df_highway_row_count = len(df_highways)
+df_highway_unique_highway_count = df_highways["Highway"].nunique()
+df_highway_direction_count = df_highways["Direction"].nunique()
 df_sorted = df.sort_values(by='score', ascending=False) #Sorts the Dataframe by score from highest to lowest
 
 
@@ -107,7 +111,6 @@ app.layout = html.Div([
                 html.H3(f"Top Weather: {most_common_weather_issue}", className='metric-card metric-weather'),
                 html.H3(f"Risk Mismatches: {mismatch_count}", className="metric-card")
             ], className="summary-grid"),
-
             html.H2("Dashboard Charts:", className="section-title"),
             html.Div([
                 html.H5("Risk Score Scale"),
@@ -123,7 +126,6 @@ app.layout = html.Div([
                 html.P(f"{operator_summary}"),
                 html.P(f"{validation_summary}")
             ], className="card focus-card"),
-
             html.H2("Corridor Details:", className='section-title'),
             html.Div([
                 html.Div([
@@ -142,6 +144,37 @@ app.layout = html.Div([
             ], className="data-note")
         ]),
 
+        dcc.Tab(label="Highway Inventory", children=[
+            html.Div([
+                html.H2("Highway Inventory:", className="section-title"),
+            html.Div([
+                html.H3(f"Number of Rows: {df_highway_row_count}"),
+                html.H3(f"Number of Highways: {df_highway_unique_highway_count}"),
+                html.H3(f"Number of Directions: {df_highway_direction_count}"),
+            ], className="summary-grid"),   
+        html.H3("Select a Highway:", className="dropdown-title"),
+        dcc.Dropdown(
+            options=sorted(df_highways["Highway"].unique()),
+            value=default_highway,
+            id="highway-dropdown"),      
+        html.H3("Select a Direction:", className="dropdown-title"),
+        dcc.Dropdown(
+            options=sorted(df_highways["Direction"].unique()),
+            value=default_direction,
+            id="direction-dropdown"),
+            html.Div([
+                dash_table.DataTable(
+                id="highway-table",
+                data=df_highways[
+                    (df_highways["Highway"] == default_highway) & 
+                    (df_highways["Direction"] == default_direction)
+                ].to_dict('records'),
+                columns=[{"name": col, "id": col} for col in df_highways.columns],
+                page_size=10,
+                style_cell={"textAlign": "left"})
+                ])
+            ], className='page')]),            
+        
         dcc.Tab(label="ML Model", children=[
             html.Div([
                 html.H2("Model Prediction Check:", className="ml-title"),
@@ -150,28 +183,36 @@ app.layout = html.Div([
                 html.P(f"Training rows: {len(X_train)}"),
                 html.P(f"Testing rows: {len(X_test)}"),
                 html.P(model_summary),
-                dash_table.DataTable(
-                    data=prediction_results.to_dict("records"),
-                    columns=[{"name": col, "id": col} for col in prediction_results.columns],
-                    style_cell={"textAlign": "center"}
-                )
-            ], className="card"), 
-            html.H2("Feature Importance:", className="ml-title"),
-            html.Div([dcc.Graph(figure=feature_importance_fig)], className="card", style={"display": "flex", "justifyContent": "center"}),
-            html.Div([html.P("In this prototype, score is the dominant model feature because the current sample dataset is small and risk categories are closely tied to score ranges.")], className='card'),
+            dash_table.DataTable(
+                data=prediction_results.to_dict("records"),
+                columns=[{"name": col, "id": col} for col in prediction_results.columns],
+                style_cell={"textAlign": "center"})], className="card"),
+        html.H2("Feature Importance:", className="ml-title"),
+            html.Div([
+                dcc.Graph(figure=feature_importance_fig)], className="card", style={"display": "flex", "justifyContent": "center"}),     
+            html.Div([
+                html.P("In this prototype, score is the dominant model feature because the current sample dataset is small and risk categories are closely tied to score ranges.")], className="card"),
             html.Div([
                 dash_table.DataTable(
                     data=feature_importance_df.to_dict("records"),
                     columns=[{"name": col, "id": col} for col in feature_importance_df.columns],
-                    style_cell={"textAlign": "center"}
-                ) 
-            ], className="card"),
-            html.Div([html.P("Model results are for demonstration only until more historical corridor records are added.")], className='card')      
-        ])
-    ])
-], className='page')
-            
-            
+                    style_cell={"textAlign": "center"})], className="card"),
+            html.Div([
+                html.P("Model results are for demonstration only until more historical corridor records are added.")], className="card")])])])
+
+@app.callback(
+    Output("highway-table", "data"),
+    Input("highway-dropdown", "value"),
+    Input("direction-dropdown", "value"))
+
+
+def update_highway_table(selected_highway, selected_direction):
+    filtered_df = df_highways[
+        (df_highways["Highway"] == selected_highway) &
+        (df_highways["Direction"] == selected_direction)]
+    return filtered_df.to_dict("records")
+
+
 
 if __name__ == "__main__":
     app.run(debug=True)
