@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 
 
 app = Dash(__name__)
+server = app.server
 app.title = "NYC Road Weather Risk Dashboard"
 
 df = pd.read_csv("data/corridors.csv") #Reads corridor data from CSV
