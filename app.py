@@ -14,6 +14,7 @@ app.title = "NYC Road Weather Risk Dashboard"
 
 df = pd.read_csv("data/corridors.csv") #Reads corridor data from CSV
 df_highways = pd.read_csv("data/nyc_highway_exits.csv")
+df_highways = df_highways.apply(lambda col: col.str.strip() if col.dtype == "object" else col)
 default_highway = sorted(df_highways["Highway"].unique())[0]
 default_direction = sorted(df_highways["Direction"].unique())[0]
 df_highway_row_count = len(df_highways)
@@ -213,7 +214,16 @@ def update_highway_table(selected_highway, selected_direction):
         (df_highways["Direction"] == selected_direction)]
     return filtered_df.to_dict("records")
 
-
+@app.callback(
+    Output("direction-dropdown", "options"),
+    Output("direction-dropdown", "value"),
+    Input("highway-dropdown", "value")
+)
+def update_direction_options(selected_highway):
+    filtered_df = df_highways[df_highways["Highway"] == selected_highway]
+    directions = sorted(filtered_df["Direction"].unique())
+    options = [{"label": direction, "value": direction} for direction in directions]
+    return options, directions[0]
 
 import os
 
